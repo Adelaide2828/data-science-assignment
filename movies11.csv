@@ -1,0 +1,16 @@
+user_id,movie_id,movie_title,rating,genre,release_year
+1,1,The Shawshank Redemption,9.3,"Drama,Crime",1994
+1,2,Jumanji,9.2,"Adventure,Fantasy",1972
+2,3,The Dark Knight,9.0,"Action,Crime",2008
+3,4,Pulp Fiction,8.9,"Crime,Drama",1994
+3,5,Garfield,8.8,"Animation,Thriller",1994
+2,6,Inception,8.8,"Sci-Fi,Action",2010
+1,7,The Matrix,8.7,"Action,Sci-Fi",1999
+4,8,Goodfellas,8.7,"Crime,Biography",1990
+5,9,The Silence of the Lambs,8.6,"Thriller,Horror",1991
+3,10,Parasite,8.6,"Drama,Thriller",2019
+5,11,Interstellar,8.6,"Sci-Fi,Adventure",2014
+5,12,The Departed,8.5,"Crime,Thriller",2006
+2,13,Whiplash,8.5,"Drama,Music",2014
+1,14,Toy Story,9.0,"Animation,Adventure",2006
+1,15,The Lion King,8.5,"Animation,Adventure",1994
